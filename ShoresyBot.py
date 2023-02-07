@@ -23,7 +23,7 @@ fairGifs = "https://gph.is/2VmiRqO", "https://gph.is/g/4LMBedE", "https://gph.is
 insults = "I made your mom so wet, Trudeau had to deploy a 24-hour national guard unit to stack sandbags around my bed." , \
         "your life is so pathetic I get a charity tax break just by hanging around you!" , \
         "your mom just liked my Instagram post from two years ago in Puerto Vallarta. Tell her I’ll put my swim trunks on for her any time she likes." , \
-        "I see the muscle shirt came today. Muscles coming tomorrow? Did ya get a tracking number? Oh, I hope he got a tracking number. That package is going to be small$
+        "I see the muscle shirt came today. Muscles coming tomorrow? Did ya get a tracking number? Oh, I hope he got a tracking number. That package is going to be smaller than the one you’re sportin’ now." , \
         "my dad says guys with big trucks have little dinks. And that makes sense, ‘cuz you want a real big truck and got a real little dink." , \
         "go scoop it off your mom’s floor! She gives my nipples butterfly kisses." , \
         "give yer balls a tug." , \
@@ -47,10 +47,10 @@ insults = "I made your mom so wet, Trudeau had to deploy a 24-hour national guar
         "tell your mom to trim her fingernails Riley's mom is getting suspcious about my war wounds." , \
         "your mom asked me to pull her hair and then hit me up for a hundo when her extensions came out." , \
         "your mom asked me to choke her and seriously not even that could shut her up." , \
-        "your mom wanted 11th hour anal and lied when I asked if the chamber was empty. It's one step forward two steps back in this relationship I'm fuckin' sick of it.$
+        "your mom wanted 11th hour anal and lied when I asked if the chamber was empty. It's one step forward two steps back in this relationship I'm fuckin' sick of it." , \
         "your mom says she's tense with anxiety can you talk to her for me? She's gripping my weiner way too hard.", \
         "I walked in on your mom watching porn and she tried to cover it up worse than she tried to cover up your old man" , \
-        "your mom wanted to watch porn and went straight for BDSM with complete disregard for how triggering that is for anyone who's been ball gagged in their sleep by $
+        "your mom wanted to watch porn and went straight for BDSM with complete disregard for how triggering that is for anyone who's been ball gagged in their sleep by Riley's mom"
 
 
 
